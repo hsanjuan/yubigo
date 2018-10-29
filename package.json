@@ -1,0 +1,16 @@
+{
+  "author": "hsanjuan",
+  "bugs": {
+    "url": "https://github.com/GeertJohan/yubigo"
+  },
+  "gx": {
+    "dvcsimport": "github.com/GeertJohan/yubigo"
+  },
+  "gxVersion": "0.14.0",
+  "language": "go",
+  "license": "BSD-2-Clause",
+  "name": "yubigo",
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "version": "2018.10.29"
+}
+
